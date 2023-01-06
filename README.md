@@ -40,7 +40,7 @@ for scalable and efficient linear algebra operations and solvers.
 
 - Poisson Bayesian: This notebook illustrates how to solve a non-linear parameter inversion for the Poisson equation in a Bayesian setting using hIPPYlib ([.ipynb](07_PoissonBayesian/PoissonBayesian.ipynb)).
 
-- Advection Diffusion Bayesian: This notebook illustrates how to solve a time-dependent linear inverse problem in a Bayesian setting using hIPPYlib ([.ipynb](08_AddDivBayesian/AddDivBayesian.ipynb), [meshfile](08_AddDivBayesian/ad_20.xml)).
+- Advection Diffusion Bayesian: This notebook illustrates how to solve a time-dependent linear inverse problem in a Bayesian setting using hIPPYlib ([.ipynb](08_AddDiffBayesian/AddDiffBayesian.ipynb), [meshfile](08_AddDiffBayesian/ad_20.xml)).
 
 
 ### Acknowledgement
