@@ -1,4 +1,4 @@
---
+---
 title: Home
 layout: default
 use_math: false
@@ -45,6 +45,6 @@ for scalable and efficient linear algebra operations and solvers.
 
 ### Acknowledgement
 
-We would like to acknowledge the Extreme Science and Engineering Discovery Environment (XSEDE), which is supported by National Science Foundation grant ACI-1548562, for providing cloud computing resources (Jetstream) for this course through allocation TG-SEE190001.
+We would like to acknowledge the Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support (ACCESS), which is supported by National Science Foundation, for providing cloud computing resources (Jetstream 2) for this course through Explore ACCESS allocation MTH230002.
 
-hIPPYlib development is partially supported by National Science Foundation grants ACI-1550593 and ACI-1550547.
+hIPPYlib development was partially supported by National Science Foundation under grants ACI-1550593 and ACI-1550547.
