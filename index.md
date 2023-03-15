@@ -24,25 +24,25 @@ for scalable and efficient linear algebra operations and solvers.
 
 ### Notebooks
 
-- Inverse problem prototype: An illustrative example of an ill-posed inverse problem ([.ipynb](01_InverseProblemPrototype/inverseProblemPrototype.ipynb)).
+- [Inverse problem prototype](html/inverseProblemPrototype.html): An illustrative example of an ill-posed inverse problem ([.ipynb](01_InverseProblemPrototype/inverseProblemPrototype.ipynb)).
 
 - Introduction to FEniCS:
-	- Poisson1D: Finite element solution of the Poisson equation in 1D ([.ipynb](02_IntroToFenics/Poisson1D.ipynb)).
-	- Convergence Rates: Convergence rates of the finite element method for the Poisson equation in 1D ([.ipynb](02_IntroToFenics/ConvergenceRates.ipynb)).
-	- Poisson2D: Finite element solution of the Poisson equation in 2D ([.ipynb](02_IntroToFenics/Poisson2D.ipynb)).
+	- [Poisson1D](html/Poisson1D.html): Finite element solution of the Poisson equation in 1D ([.ipynb](02_IntroToFenics/Poisson1D.ipynb)).
+	- [Convergence Rates](html/ConvergenceRates.html): Convergence rates of the finite element method for the Poisson equation in 1D ([.ipynb](02_IntroToFenics/ConvergenceRates.ipynb)).
+	- [Poisson2D](html/Poisson2D.html): Finite element solution of the Poisson equation in 2D ([.ipynb](02_IntroToFenics/Poisson2D.ipynb)).
 
 
-- Unconstrained Minimization: This notebook illustrates the  minimization of a non-quadratic energy functional using Netwon Method ([.ipynb](03_UnconstrainedMinimization/UnconstrainedMinimization.ipynb)).
+- [Unconstrained Minimization](html/unconstrainedMinimization.html): This notebook illustrates the  minimization of a non-quadratic energy functional using Netwon Method ([.ipynb](03_UnconstrainedMinimization/UnconstrainedMinimization.ipynb)).
 
-- Spectrum of Hessian operator: This notebook illustrates the spectral properties of the preconditioned Hessian misfit operator ([.ipynb](04_HessianSpectrum/HessianSpectrum.ipynb)).
+- [Spectrum of Hessian operator](html/HessianSpectrum.html): This notebook illustrates the spectral properties of the preconditioned Hessian misfit operator ([.ipynb](04_HessianSpectrum/HessianSpectrum.ipynb)).
 
-- Poisson SD: This notebook illustrates the use of FEniCS for solving an inverse problem for the coefficient field of a Poisson equation, using the steepest descent method  ([.ipynb](05_Poisson_SD/Poisson_SD.ipynb)). *Note that SD is a poor choice of optimization method for this problem*; it is provided here in order to compare with Newton's method, which we'll be using later in the class.
+- [Poisson SD](html/Poisson_SD.html): This notebook illustrates the use of FEniCS for solving an inverse problem for the coefficient field of a Poisson equation, using the steepest descent method  ([.ipynb](05_Poisson_SD/Poisson_SD.ipynb)). *Note that SD is a poor choice of optimization method for this problem*; it is provided here in order to compare with Newton's method, which we'll be using later in the class.
 
-- Poisson INCG: This notebook illustrates the use of FEniCS for solving an inverse problem for the coefficient field of a Poisson equation, using the inexact Newton CG method  ([.ipynb](06_Poisson_INCG/Poisson_INCG.ipynb)).
+- [Poisson INCG](html/Poisson_INCG.html): This notebook illustrates the use of FEniCS for solving an inverse problem for the coefficient field of a Poisson equation, using the inexact Newton CG method  ([.ipynb](06_Poisson_INCG/Poisson_INCG.ipynb)).
 
-- Poisson Bayesian: This notebook illustrates how to solve a non-linear parameter inversion for the Poisson equation in a Bayesian setting using hIPPYlib ([.ipynb](07_PoissonBayesian/PoissonBayesian.ipynb)).
+- [Poisson Bayesian](html/PoissonBayesian.html): This notebook illustrates how to solve a non-linear parameter inversion for the Poisson equation in a Bayesian setting using hIPPYlib ([.ipynb](07_PoissonBayesian/PoissonBayesian.ipynb)).
 
-- Advection Diffusion Bayesian: This notebook illustrates how to solve a time-dependent linear inverse problem in a Bayesian setting using hIPPYlib ([.ipynb](08_AddDiffBayesian/AddDiffBayesian.ipynb), [meshfile](08_AddDiffBayesian/ad_20.xml), [targetfile](08_AddDiffBayesian/targets.txt)).
+- [Advection Diffusion Bayesian](html/AddDiffBayesian.html): This notebook illustrates how to solve a time-dependent linear inverse problem in a Bayesian setting using hIPPYlib ([.ipynb](08_AddDiffBayesian/AddDiffBayesian.ipynb), [meshfile](08_AddDiffBayesian/ad_20.xml), [targetfile](08_AddDiffBayesian/targets.txt)).
 
 
 ### Acknowledgement
