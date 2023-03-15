@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Computational and Variational Methods for Inverse Problems
 layout: default
 use_math: false
 ---
