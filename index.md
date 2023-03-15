@@ -6,6 +6,8 @@ use_math: false
 
 This page collects the *Jupyter notebooks* used for the graduate course on **Computational and Variational Methods for Inverse Problems**, taught by Prof. Ghattas at UT Austin in the Spring 2023 semester.
 
+For access to Jetstream 2 click [here](cloud.html).
+
 ### hIPPYlib (Inverse Problems Python library)
 
 The teaching material below uses [hIPPYlib](https://hippylib.github.io). hIPPYlib implements state-of-the-art scalable algorithms for PDE-based deterministic and Bayesian inverse problems.
@@ -40,7 +42,7 @@ for scalable and efficient linear algebra operations and solvers.
 
 - Poisson Bayesian: This notebook illustrates how to solve a non-linear parameter inversion for the Poisson equation in a Bayesian setting using hIPPYlib ([.ipynb](07_PoissonBayesian/PoissonBayesian.ipynb)).
 
-- Advection Diffusion Bayesian: This notebook illustrates how to solve a time-dependent linear inverse problem in a Bayesian setting using hIPPYlib ([.ipynb](08_AddDiffBayesian/AddDiffBayesian.ipynb), [meshfile](08_AddDiffBayesian/ad_20.xml)).
+- Advection Diffusion Bayesian: This notebook illustrates how to solve a time-dependent linear inverse problem in a Bayesian setting using hIPPYlib ([.ipynb](08_AddDiffBayesian/AddDiffBayesian.ipynb), [meshfile](08_AddDiffBayesian/ad_20.xml), [targetfile](08_AddDiffBayesian/targets.txt)).
 
 
 ### Acknowledgement
