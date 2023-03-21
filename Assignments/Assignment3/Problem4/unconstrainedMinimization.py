@@ -126,7 +126,7 @@ class InexactNewtonCG:
             for j in range(max_backtrack):
                 u.assign(u_backtrack)
                 u.vector().axpy(-alpha, du)
-                Fnext = assemble(F)
+                Fnext = dl.assemble(F)
                 if Fnext < Fn + alpha*c_armijo*du_gn:
                     Fn = Fnext
                     bk_converged = True
