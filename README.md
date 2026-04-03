@@ -1,4 +1,4 @@
-This page collects the *Jupyter notebooks* used for the graduate course on **Computational and Variational Methods for Inverse Problems**, taught by Prof. Ghattas at UT Austin in the Spring 2023 semester.
+This page collects the *Jupyter notebooks* used for the graduate course on **Computational and Variational Methods for Inverse Problems**, taught by Prof. Ghattas at UT Austin.
 
 ### hIPPYlib (Inverse Problems Python library)
 
@@ -16,6 +16,5 @@ for scalable and efficient linear algebra operations and solvers.
 
 ### Acknowledgement
 
-We would like to acknowledge the Advanced Cyberinfrastructure Coordination Ecosystem: Services & Support (ACCESS), which is supported by National Science Foundation, for providing cloud computing resources (Jetstream 2) for this course through Explore ACCESS allocation MTH230002.
 
 hIPPYlib development was partially supported by National Science Foundation under grants ACI-1550593 and ACI-1550547.
