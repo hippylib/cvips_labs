@@ -1,3 +1,11 @@
+---
+title: Computational and Variational Methods for Inverse Problems
+layout: default
+use_math: false
+---
+
+This page provides information on how to access the cloud computing resources for the course Computational and Variational Methods for Inverse Problems at UT Austin.
+
 1. Access to the computational resources requires a TACC account. If you do not  have one already, please create a [TACC account](https://tacc.utexas.edu/portal/login). Please follow all the required steps, including setting up the multifactor authentication (MFA). 
 
 2. An active allocation is required to access the computational resources. We can provide an allocation to students in the class
